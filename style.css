@@ -1,0 +1,24 @@
+.lining{ 
+    text-decoration: line-through;
+}
+
+.design{ 
+    background-color: yellow;
+}
+
+.decor{ 
+    font-style: italic;
+    text-decoration: underline;
+}
+
+a{ 
+    color: brown;
+    background-color: yellow;
+    text-decoration: none;
+    font-style: italic;
+}
+
+h2{ 
+    font-style: italic;
+    color: red;
+}
